@@ -1,0 +1,434 @@
+[
+  {
+    "id": "P1-P2",
+    "distance": 1500
+  },
+  {
+    "id": "P2-P3",
+    "distance": 1100
+  },
+  {
+    "id": "P3-P4",
+    "distance": 1900
+  },
+  {
+    "id": "P4-P5",
+    "distance": 1500
+  },
+  {
+    "id": "P5-P6",
+    "distance": 750
+  },
+  {
+    "id": "P6-P7",
+    "distance": 950
+  },
+  {
+    "id": "P7-P8",
+    "distance": 500
+  },
+  {
+    "id": "P8-P9",
+    "distance": 700
+  },
+  {
+    "id": "P9-P10",
+    "distance": 900
+  },
+  {
+    "id": "P2-P11",
+    "distance": 1100
+  },
+  {
+    "id": "P11-P12",
+    "distance": 1000
+  },
+  {
+    "id": "P12-P13",
+    "distance": 1100
+  },
+  {
+    "id": "P13-P14",
+    "distance": 1500
+  },
+  {
+    "id": "P14-P15",
+    "distance": 1400
+  },
+  {
+    "id": "P15-P16",
+    "distance": 800
+  },
+  {
+    "id": "P16-P17",
+    "distance": 1200
+  },
+  {
+    "id": "P18-P19",
+    "distance": 900
+  },
+  {
+    "id": "P19-P20",
+    "distance": 1200
+  },
+  {
+    "id": "P20-P21",
+    "distance": 1200
+  },
+  {
+    "id": "P21-P7",
+    "distance": 800
+  },
+  {
+    "id": "P6-P22",
+    "distance": 650
+  },
+  {
+    "id": "P5-P9",
+    "distance": 850
+  },
+  {
+    "id": "P22-P9",
+    "distance": 850
+  },
+  {
+    "id": "P22-P23",
+    "distance": 750
+  },
+  {
+    "id": "P23-P24",
+    "distance": 1200
+  },
+  {
+    "id": "P24-P25",
+    "distance": 750
+  },
+  {
+    "id": "P25-P26",
+    "distance": 2000
+  },
+  {
+    "id": "P26-P27",
+    "distance": 1100
+  },
+  {
+    "id": "P27-P28",
+    "distance": 850
+  },
+  {
+    "id": "P28-P29",
+    "distance": 1000
+  },
+  {
+    "id": "P29-P30",
+    "distance": 1600
+  },
+  {
+    "id": "P26-P31",
+    "distance": 2900
+  },
+  {
+    "id": "P31-P32",
+    "distance": 800
+  },
+  {
+    "id": "P32-P33",
+    "distance": 1000
+  },
+  {
+    "id": "P33-P34",
+    "distance": 1100
+  },
+  {
+    "id": "P34-P35",
+    "distance": 950
+  },
+  {
+    "id": "P35-P36",
+    "distance": 1500
+  },
+  {
+    "id": "P2-P1",
+    "distance": 1500
+  },
+  {
+    "id": "P3-P2",
+    "distance": 1100
+  },
+  {
+    "id": "P4-P3",
+    "distance": 1900
+  },
+  {
+    "id": "P5-P4",
+    "distance": 1500
+  },
+  {
+    "id": "P6-P5",
+    "distance": 750
+  },
+  {
+    "id": "P7-P6",
+    "distance": 950
+  },
+  {
+    "id": "P8-P7",
+    "distance": 1900
+  },
+  {
+    "id": "P9-P8",
+    "distance": 1100
+  },
+  {
+    "id": "P10-P9",
+    "distance": 900
+  },
+  {
+    "id": "P11-P2",
+    "distance": 1100
+  },
+  {
+    "id": "P12-P11",
+    "distance": 1000
+  },
+  {
+    "id": "P13-P12",
+    "distance": 1100
+  },
+  {
+    "id": "P14-P13",
+    "distance": 1500
+  },
+  {
+    "id": "P15-P14",
+    "distance": 1400
+  },
+  {
+    "id": "P16-P15",
+    "distance": 800
+  },
+  {
+    "id": "P17-P16",
+    "distance": 1200
+  },
+  {
+    "id": "P19-P18",
+    "distance": 900
+  },
+  {
+    "id": "P20-P19",
+    "distance": 1200
+  },
+  {
+    "id": "P21-P20",
+    "distance": 1200
+  },
+  {
+    "id": "P7-P21",
+    "distance": 1800
+  },
+  {
+    "id": "P22-P6",
+    "distance": 650
+  },
+  {
+    "id": "P23-P22",
+    "distance": 750
+  },
+  {
+    "id": "P24-P23",
+    "distance": 1200
+  },
+  {
+    "id": "P25-P24",
+    "distance": 750
+  },
+  {
+    "id": "P26-P25",
+    "distance": 2000
+  },
+  {
+    "id": "P27-P26",
+    "distance": 1100
+  },
+  {
+    "id": "P28-P27",
+    "distance": 850
+  },
+  {
+    "id": "P29-P28",
+    "distance": 1000
+  },
+  {
+    "id": "P30-P29",
+    "distance": 1600
+  },
+  {
+    "id": "P31-P26",
+    "distance": 2900
+  },
+  {
+    "id": "P32-P31",
+    "distance": 800
+  },
+  {
+    "id": "P33-P32",
+    "distance": 1000
+  },
+  {
+    "id": "P34-P33",
+    "distance": 1100
+  },
+  {
+    "id": "P35-P34",
+    "distance": 950
+  },
+  {
+    "id": "P36-P35",
+    "distance": 1500
+  },
+  {
+    "id": "P1-P1",
+    "distance": 0
+  },
+  {
+    "id": "P2-P2",
+    "distance": 0
+  },
+  {
+    "id": "P3-P3",
+    "distance": 0
+  },
+  {
+    "id": "P4-P4",
+    "distance": 0
+  },
+  {
+    "id": "P5-P5",
+    "distance": 0
+  },
+  {
+    "id": "P6-P6",
+    "distance": 0
+  },
+  {
+    "id": "P7-P7",
+    "distance": 0
+  },
+  {
+    "id": "P8-P8",
+    "distance": 0
+  },
+  {
+    "id": "P9-P9",
+    "distance": 0
+  },
+  {
+    "id": "P10-P10",
+    "distance": 0
+  },
+  {
+    "id": "P11-P11",
+    "distance": 0
+  },
+  {
+    "id": "P12-P12",
+    "distance": 0
+  },
+  {
+    "id": "P13-P13",
+    "distance": 0
+  },
+  {
+    "id": "P14-P14",
+    "distance": 0
+  },
+  {
+    "id": "P15-P15",
+    "distance": 0
+  },
+  {
+    "id": "P16-P16",
+    "distance": 0
+  },
+  {
+    "id": "P17-P17",
+    "distance": 0
+  },
+  {
+    "id": "P18-P18",
+    "distance": 0
+  },
+  {
+    "id": "P19-P19",
+    "distance": 0
+  },
+  {
+    "id": "P20-P20",
+    "distance": 0
+  },
+  {
+    "id": "P21-P21",
+    "distance": 0
+  },
+  {
+    "id": "P22-P22",
+    "distance": 0
+  },
+  {
+    "id": "P23-P23",
+    "distance": 0
+  },
+  {
+    "id": "P24-P24",
+    "distance": 0
+  },
+  {
+    "id": "P25-P25",
+    "distance": 0
+  },
+  {
+    "id": "P26-P26",
+    "distance": 0
+  },
+  {
+    "id": "P27-P27",
+    "distance": 0
+  },
+  {
+    "id": "P28-P28",
+    "distance": 0
+  },
+  {
+    "id": "P29-P29",
+    "distance": 0
+  },
+  {
+    "id": "P30-P30",
+    "distance": 0
+  },
+  {
+    "id": "P31-P31",
+    "distance": 0
+  },
+  {
+    "id": "P32-P32",
+    "distance": 0
+  },
+  {
+    "id": "P33-P33",
+    "distance": 0
+  },
+  {
+    "id": "P34-P34",
+    "distance": 0
+  },
+  {
+    "id": "P35-P35",
+    "distance": 0
+  },
+  {
+    "id": "P36-P36",
+    "distance": 0
+  }
+]

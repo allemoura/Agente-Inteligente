@@ -1,0 +1,218 @@
+[
+    {
+      "id": "P1",
+      "address": "Terminal do Varadouro",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P2",
+      "address": "Parque Solon de Lucena, 488",
+      "turistic": "Lagoa",
+      "qtd": 1
+    },
+    {
+      "id": "P3",
+      "address": "Avenida Maximiniano Figueiredo 150",
+      "turistic": "Praça da Independencia",
+      "qtd": 1
+    },
+    {
+      "id": "P4",
+      "address": "Avenida Epitacio pessoa 1634",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P5",
+      "address": "Avenida Epitacio pessoa 3120",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P6",
+      "address": "Avenida Epitacio pessoa 4000",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P7",
+      "address": "Avenida Epitacio pessoa 4869",
+      "turistic": "Busto de Tamandaré",
+      "qtd": 1
+    },
+    {
+      "id": "P8",
+      "address": "Avenida cabo branco 2538",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P9",
+      "address": "Avenida cabo branco 3582",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P10",
+      "address": "Avenida cabo branco 4572",
+      "turistic": "Estação Ciência",
+      "qtd": 1
+    },
+    {
+      "id": "P11",
+      "address": "Avenida duarte da silveira 192",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P12",
+      "address": "Avenida Ministro Jose Américo de almeida 814",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P13",
+      "address": "Avenida Ministro Jose Américo de almeida 1742",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P14",
+      "address": "Avenida Ministro Jose Américo de almeida 3502",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P15",
+      "address": "Avenida Ministro Jose Américo de almeida 4549",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P16",
+      "address": "Rua Abelardo da Silva Guimaraes Barreto 20",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P17",
+      "address": "Terminal Altiplano",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P18",
+      "address": "Rua Vereador Gumercino Barbosa 205",
+      "turistic": "Shopping Manaira",
+      "qtd": 1
+    },
+    {
+      "id": "P19",
+      "address": "Avenida Governador Flávio ribeiro coutinho 327",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P20",
+      "address": "Avenida General Edson Ramalho 421",
+      "turistic": "Praia de Manaira",
+      "qtd": 1
+    },
+    {
+      "id": "P21",
+      "address": "Avenida Professor Maria Sales 422",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P22",
+      "address": "Rua Tito Silva 487",
+      "turistic": "Praça das Muriçocas",
+      "qtd": 0
+    },
+    {
+      "id": "P23",
+      "address": "Avenida Presidente Castelo Branco 414",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P24",
+      "address": "Rua Vereador João Freire 3",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P25",
+      "address": "Via Expressa Padre Zé 41",
+      "turistic": "UFPB",
+      "qtd": 1
+    },
+    {
+      "id": "P26",
+      "address": "Via Expressa Padre Zé sn",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P27",
+      "address": "Rua Empresário João Rodrigues Alves 796",
+      "turistic": "Shopping Sul",
+      "qtd": 1
+    },
+    {
+      "id": "P28",
+      "address": "Rua Walfredo Macedo Brandão 630",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P29",
+      "address": "Rua Josefa Taveira 176",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P30",
+      "address": "Rua Josefa Taveira 2000",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P31",
+      "address": "Rua Estevao Gérson Carneiro da Cunha 565",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P32",
+      "address": "Rua Diógenes Chianca 316",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P33",
+      "address": "Avenida Hilton Souto 80",
+      "turistic": "Estátua da liberdade Loja da HAVAN",
+      "qtd": 1
+    },
+    {
+      "id": "P34",
+      "address": "BR 230 Correios",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P35",
+      "address": "Rua José Américo 50",
+      "turistic": "",
+      "qtd": 0
+    },
+    {
+      "id": "P36",
+      "address": "Avenida Valdemar Galdino Naziazeno 920",
+      "turistic": "",
+      "qtd": 0
+    }
+  ]
